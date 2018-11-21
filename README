@@ -10,3 +10,5 @@ Display must be powered separately from the Arduino
   * CLK - to digital pin 13 (SCK pin)
 
 Using SDI protocol - check your specs as SDI/CLK pins differ between models. The above is for the Uno.
+
+The AS1108 datasheet can be found here: https://media.digikey.com/pdf/Data%20Sheets/Austriamicrosystems%20PDFs/AS1108.pdf
