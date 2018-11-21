@@ -1,0 +1,12 @@
+Arduino library for the AS1108
+==============================
+Work in progress
+
+Allows using a 4 segment display to display numeric values. Integers, decimal points and negaive numbers supported.
+Display must be powered separately from the Arduino
+
+  * CS - to digital pin 10  (SS pin)  (customizable)
+  * SDI - to digital pin 11 (MOSI pin)
+  * CLK - to digital pin 13 (SCK pin)
+
+Using SDI protocol - check your specs as SDI/CLK pins differ between models. The above is for the Uno.
